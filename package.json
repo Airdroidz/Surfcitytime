@@ -1,0 +1,35 @@
+{
+    "author": "AirDroidz",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "surf-city-time",
+    "pebble": {
+        "displayName": "Surf City Watch '26",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/surfcitytime.png",
+                    "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "680c2f5a-99d0-4271-9c58-f5f62bbce330",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
